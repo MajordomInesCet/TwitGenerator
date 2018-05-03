@@ -14,4 +14,4 @@ Thanks to all the people that works in open source libraries like:
 3. [Spacy](https://spacy.io)
 4. [sci-kit](http://scikit-learn.org/stable/)
 
-Most importantly I want to thank to every single one of us who fought and is fighting for the Catalan Independenc
+Most importantly I want to thank to every single one of us who fought and is fighting for the Catalan Independence
